@@ -1,19 +1,15 @@
 
-TITLE: 
-Slides - Responsive Free HTML5 Horizontal Slides Template
+---
 
-AUTHOR:
-DESIGNED & DEVELOPED by FreeHTML5.co and Designmodo.com
+## 🚀 How to Run
+1. Download or clone the repository  
+2. Open `index.html` in any web browser  
+3. Explore the pages and UI  
 
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+---
 
-
-CREDITS:
-
-jQuery
-http://jquery.com/
-
-Google Fonts
-https://www.google.com/fonts/
+## ✨ Customization
+- Replace images inside the **images** folder 
+- Replace Videos inside the **video** folder
+- Update text content in HTML files  
+- Modify colors, fonts, and layout in **style.css**
