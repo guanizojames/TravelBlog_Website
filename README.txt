@@ -60,7 +60,3 @@ You can update:
 * Add a backend for comments or posts
 * Add video embeds from YouTube
 * Add a dark mode toggle
-
-## 📄 License
-
-This project is open source and free to use.
